@@ -1,3 +1,8 @@
 .container {
-  width: 80%;
+  width: 75%;
+  background-color: #e7e8e9;
+}
+
+.logon {
+  float: right;
 }
