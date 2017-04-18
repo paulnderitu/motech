@@ -53,7 +53,28 @@
 
               .sidebar {
                 float: right;
-                width: 300px;
+                width: 30%;
+              }
+
+              .maincontent {
+                float: left;
+                width: 70%;
+              }
+
+              .maintop {
+                float: left;
+                color: #095382;
+                font-size: 20px;
+                font-weight: bold;
+                width: 100%;
+              }
+
+              .maincontentdiv {
+                width: 35%;
+                float: left;
+                color: #3d94cd;
+                text-align: center;
+                line-height: 17px;
               }
 
               .divider {
