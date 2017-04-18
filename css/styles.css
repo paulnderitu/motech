@@ -62,19 +62,25 @@
               }
 
               .maintop {
-                float: left;
+                /*float: left;
                 color: #095382;
                 font-size: 20px;
-                font-weight: bold;
+                font-weight: bold;*/
                 width: 100%;
               }
 
-              .maincontentdiv {
+              .maincontentdiv1 {
                 width: 35%;
                 float: left;
-                color: #3d94cd;
+                padding-top: 0px;
                 text-align: center;
-                line-height: 17px;
+              }
+
+              .maincontentdiv2 {
+                width: 35%;
+                float: right;
+                padding-bottom: 0px;
+                text-align: center;
               }
 
               .divider {
