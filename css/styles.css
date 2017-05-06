@@ -17,6 +17,14 @@
                 width: 30%;
               }
 
+              .divider {
+                width: 1px;
+                float: left;
+                margin: 100px 0;
+                background: #6CB7E3;
+                height: 500px;
+              }
+
               .content {
                 float: left;
                 width: 70%;
